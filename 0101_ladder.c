@@ -8,14 +8,7 @@ int main()
     {
         for(j=0; j<=i; j++)
         {
-            if(j % 2 == 1)
-            {
-                printf("01");
-            }
-            else
-            {
-                printf("01");
-            }
+            printf("01");
         }
 
         printf("\n");
